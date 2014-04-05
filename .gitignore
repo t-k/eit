@@ -1,0 +1,16 @@
+node_modules/
+.sass-cache/
+*.swp
+*.log
+.DS_Store
+*.DS_Store
+lib-cov
+
+.idea/
+bower_components/
+docs/
+npm-debug.log
+public/javascripts/
+public/stylesheets/
+assets/javascripts/vendor/
+assets/javascripts/templates/
